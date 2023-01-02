@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Thanks for visiting my Github website. Great to meet you!
+
+I'm a researcher and scientific software developer at the [Analysis and Modelling of Complex Data](https://methoden.amd.psychologie.uni-mainz.de/jose-c-garcia-alanis/) at Johannes Gutenberg University in Mainz, Germany. My work focuses on developing and improving data preprocessing and analysis pipelines for time-series data. I do software development in Python and R (see [here](https://gist.github.com/JoseAlanis/08d75e49ab30630adb34774107cc8a75) and [here](https://amd-lab.github.io/R-Kurs-Buch/) for some examples).
+
+I also like to collaborate with giving workshops, for both Python and R (see [here](https://peerherholz.github.io/ML-DL_workshop_SynAGE/introduction_general.html) and [here](https://amd-lab.github.io/R-Kurs-Buch/) for some examples).
+
+My background is in experimental psychology. I'm currently wrapping up my PhD at Philipps-Universität Marburg.
+
+I advocate for open, reproducible, and robust scientific practices and am an active open-source community member.
+
 <!--
 **JoseAlanis/JoseAlanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
